@@ -39,7 +39,7 @@ After running `learn test`, any changes you make to your components will cause
 the tests to run again, so you can keep the tests running as you work!
 
 ## Code Along
-
+ 
 There are a few tests defined for this lab so you can get some practice.
 
 To get started, run `npm install` (if you haven't already), then run `npm test`
